@@ -1,0 +1,10 @@
+Language,Language code,Resource tier,Linguistic subgroup,Number of evaluated emotions,Majority baseline macro-F1,XLM-R macro-F1,Gemma-4-31B zero-shot macro-F1,Published Track C best macro-F1,Evaluation track,Gap: XLM-R minus published Track C best,Gap: Gemma-4-31B minus published Track C best,Published benchmark source
+English,ENG,1,Germanic,5,0.4491,0.4217,0.6274,0.797,Track C,-0.3753,-0.1696,"SemEval-2025 Task 11, Table 7 (Track C)"
+Hindi,HIN,1,Indo-Aryan,6,0.2641,0.7359,0.7421,0.919,Track C,-0.1831,-0.1769,"SemEval-2025 Task 11, Table 7 (Track C)"
+Russian,RUS,1,Slavic,6,0.2618,0.6601,0.818,0.906,Track C,-0.2459,-0.088,"SemEval-2025 Task 11, Table 7 (Track C)"
+Hausa,HAU,2,Chadic,6,0.3121,0.1426,0.5606,0.709,Track C,-0.5664,-0.1484,"SemEval-2025 Task 11, Table 7 (Track C)"
+Kinyarwanda,KIN,2,Bantu (Great Lakes),6,0.2176,0.0967,0.4213,0.519,Track C,-0.4223,-0.0977,"SemEval-2025 Task 11, Table 7 (Track C)"
+Sundanese,SUN,2,Sundic,6,0.334,0.3355,0.6516,0.467,Track C,-0.1315,0.1846,"SemEval-2025 Task 11, Table 7 (Track C)"
+Yoruba,YOR,3,Yoruboid,6,0.1647,0.0912,0.3479,0.359,Track C,-0.2678,-0.0111,"SemEval-2025 Task 11, Table 7 (Track C)"
+Emakhuwa,VMW,3,Bantu (Makua-Lomwe),6,0.1626,0.044,0.0209,0.21,Track C,-0.166,-0.1891,"SemEval-2025 Task 11, Table 7 (Track C)"
+Nigerian Pidgin,PCM,3,English-Based,6,0.3566,0.3487,0.5199,0.674,Track C,-0.3253,-0.1541,"SemEval-2025 Task 11, Table 7 (Track C)"

@@ -1,0 +1,31 @@
+Language,Language code,Transfer configuration,Evaluation track,XLM-R macro-F1 (matched setup),SERENGETI macro-F1,Phase 1 SERENGETI reference macro-F1,Evaluation split,Published Track A test best macro-F1 (context only),Published Track C test best macro-F1 (context only),Published test best for this row's track (context only),Published benchmark source,Benchmark comparison status
+Hausa,HAU,C1,Track A,0.6792,0.6974,0.6966,Validation,0.751,0.709,0.751,"SemEval-2025 Task 11, Table 5 (Track A)",Context only: model score is validation; published reference is test
+Hausa,HAU,C1,Track C,0.3016,0.4672,,Validation,0.751,0.709,0.709,"SemEval-2025 Task 11, Table 7 (Track C)",Context only: model score is validation; published reference is test
+Hausa,HAU,C2,Track A,0.6676,,0.6966,Validation,0.751,0.709,0.751,"SemEval-2025 Task 11, Table 5 (Track A)",Context only: model score is validation; published reference is test
+Hausa,HAU,C2,Track C,0.048,,,Validation,0.751,0.709,0.709,"SemEval-2025 Task 11, Table 7 (Track C)",Context only: model score is validation; published reference is test
+Hausa,HAU,C3,Track A,0.6676,,0.6966,Validation,0.751,0.709,0.751,"SemEval-2025 Task 11, Table 5 (Track A)",Context only: model score is validation; published reference is test
+Hausa,HAU,C3,Track C,0.048,,,Validation,0.751,0.709,0.709,"SemEval-2025 Task 11, Table 7 (Track C)",Context only: model score is validation; published reference is test
+Kinyarwanda,KIN,C1,Track A,0.3883,0.5946,0.5427,Validation,0.657,0.519,0.657,"SemEval-2025 Task 11, Table 5 (Track A)",Context only: model score is validation; published reference is test
+Kinyarwanda,KIN,C1,Track C,0.1458,0.3945,,Validation,0.657,0.519,0.519,"SemEval-2025 Task 11, Table 7 (Track C)",Context only: model score is validation; published reference is test
+Kinyarwanda,KIN,C2,Track A,0.38,0.5403,0.5427,Validation,0.657,0.519,0.657,"SemEval-2025 Task 11, Table 5 (Track A)",Context only: model score is validation; published reference is test
+Kinyarwanda,KIN,C2,Track C,0.1367,0.3424,,Validation,0.657,0.519,0.519,"SemEval-2025 Task 11, Table 7 (Track C)",Context only: model score is validation; published reference is test
+Kinyarwanda,KIN,C3,Track A,0.4048,0.5522,0.5427,Validation,0.657,0.519,0.657,"SemEval-2025 Task 11, Table 5 (Track A)",Context only: model score is validation; published reference is test
+Kinyarwanda,KIN,C3,Track C,0.1263,0.1907,,Validation,0.657,0.519,0.519,"SemEval-2025 Task 11, Table 7 (Track C)",Context only: model score is validation; published reference is test
+Yoruba,YOR,C1,Track A,0.2693,0.3504,0.4061,Validation,0.461,0.359,0.461,"SemEval-2025 Task 11, Table 5 (Track A)",Context only: model score is validation; published reference is test
+Yoruba,YOR,C1,Track C,0.1551,0.2192,,Validation,0.461,0.359,0.359,"SemEval-2025 Task 11, Table 7 (Track C)",Context only: model score is validation; published reference is test
+Yoruba,YOR,C2,Track A,0.2888,0.3459,0.4061,Validation,0.461,0.359,0.461,"SemEval-2025 Task 11, Table 5 (Track A)",Context only: model score is validation; published reference is test
+Yoruba,YOR,C2,Track C,0.1052,0.1889,,Validation,0.461,0.359,0.359,"SemEval-2025 Task 11, Table 7 (Track C)",Context only: model score is validation; published reference is test
+Yoruba,YOR,C3,Track A,0.2835,0.3224,0.4061,Validation,0.461,0.359,0.461,"SemEval-2025 Task 11, Table 5 (Track A)",Context only: model score is validation; published reference is test
+Yoruba,YOR,C3,Track C,,0.1461,,Validation,0.461,0.359,0.359,"SemEval-2025 Task 11, Table 7 (Track C)",Context only: model score is validation; published reference is test
+Emakhuwa,VMW,C1,Track A,0.187,0.1786,0.1658,Validation,0.325,0.21,0.325,"SemEval-2025 Task 11, Table 5 (Track A)",Context only: model score is validation; published reference is test
+Emakhuwa,VMW,C1,Track C,0.0955,0.1024,,Validation,0.325,0.21,0.21,"SemEval-2025 Task 11, Table 7 (Track C)",Context only: model score is validation; published reference is test
+Emakhuwa,VMW,C2,Track A,0.2038,0.2283,0.1658,Validation,0.325,0.21,0.325,"SemEval-2025 Task 11, Table 5 (Track A)",Context only: model score is validation; published reference is test
+Emakhuwa,VMW,C2,Track C,0.0756,0.1178,,Validation,0.325,0.21,0.21,"SemEval-2025 Task 11, Table 7 (Track C)",Context only: model score is validation; published reference is test
+Emakhuwa,VMW,C3,Track A,0.1817,0.2173,0.1658,Validation,0.325,0.21,0.325,"SemEval-2025 Task 11, Table 5 (Track A)",Context only: model score is validation; published reference is test
+Emakhuwa,VMW,C3,Track C,0.0797,0.091,,Validation,0.325,0.21,0.21,"SemEval-2025 Task 11, Table 7 (Track C)",Context only: model score is validation; published reference is test
+Nigerian Pidgin,PCM,C1,Track A,0.535,0.544,0.5593,Validation,0.674,0.674,0.674,"SemEval-2025 Task 11, Table 5 (Track A)",Context only: model score is validation; published reference is test
+Nigerian Pidgin,PCM,C1,Track C,0.3662,0.3417,,Validation,0.674,0.674,0.674,"SemEval-2025 Task 11, Table 7 (Track C)",Context only: model score is validation; published reference is test
+Nigerian Pidgin,PCM,C2,Track A,0.5708,0.474,0.5593,Validation,0.674,0.674,0.674,"SemEval-2025 Task 11, Table 5 (Track A)",Context only: model score is validation; published reference is test
+Nigerian Pidgin,PCM,C2,Track C,0.3492,0.3215,,Validation,0.674,0.674,0.674,"SemEval-2025 Task 11, Table 7 (Track C)",Context only: model score is validation; published reference is test
+Nigerian Pidgin,PCM,C3,Track A,0.5293,0.4962,0.5593,Validation,0.674,0.674,0.674,"SemEval-2025 Task 11, Table 5 (Track A)",Context only: model score is validation; published reference is test
+Nigerian Pidgin,PCM,C3,Track C,0.3458,0.3144,,Validation,0.674,0.674,0.674,"SemEval-2025 Task 11, Table 7 (Track C)",Context only: model score is validation; published reference is test

@@ -1,0 +1,28 @@
+Language code,Language,Prompt condition,Comparison,P0 baseline macro-F1,Compared prompt macro-F1,Prompt effect (compared prompt minus P0),95% confidence interval lower bound,95% confidence interval upper bound,Raw p-value,Higher-scoring condition,Holm-adjusted p-value,Significant after Holm correction (alpha=0.05),Evaluation split,Analysis scope
+ENG,English,p1,P0 vs P1,0.6274,0.6112,-0.0162,-0.0363,0.0028,0.1029,P0,0.169,False,Validation,Internal Gemma prompt comparison
+ENG,English,p2,P0 vs P2,0.6274,0.6069,-0.0206,-0.0441,0.0028,0.0845,P0,0.169,False,Validation,Internal Gemma prompt comparison
+ENG,English,p3,P0 vs P3,0.6274,0.6045,-0.0229,-0.0445,-0.0013,0.0373,P0,0.1119,False,Validation,Internal Gemma prompt comparison
+HIN,Hindi,p1,P0 vs P1,0.7421,0.7715,0.0294,0.0067,0.0547,0.0169,P1,0.0507,False,Validation,Internal Gemma prompt comparison
+HIN,Hindi,p2,P0 vs P2,0.7421,0.7719,0.0298,-0.0073,0.0659,0.1053,P2,0.166,False,Validation,Internal Gemma prompt comparison
+HIN,Hindi,p3,P0 vs P3,0.7421,0.7752,0.0331,-0.0054,0.0701,0.083,P3,0.166,False,Validation,Internal Gemma prompt comparison
+RUS,Russian,p1,P0 vs P1,0.818,0.8414,0.0233,0.0068,0.0406,0.0065,P1,0.0195,True,Validation,Internal Gemma prompt comparison
+RUS,Russian,p2,P0 vs P2,0.818,0.8272,0.0092,-0.0132,0.0305,0.4187,P2,0.4187,False,Validation,Internal Gemma prompt comparison
+RUS,Russian,p3,P0 vs P3,0.818,0.8412,0.0231,0.0026,0.0439,0.0289,P3,0.0578,False,Validation,Internal Gemma prompt comparison
+HAU,Hausa,p1,P0 vs P1,0.5606,0.606,0.0454,0.0197,0.071,0.0003,P1,0.0009,True,Validation,Internal Gemma prompt comparison
+HAU,Hausa,p2,P0 vs P2,0.5606,0.6063,0.0457,0.0185,0.0729,0.0012,P2,0.0016,True,Validation,Internal Gemma prompt comparison
+HAU,Hausa,p3,P0 vs P3,0.5606,0.6018,0.0412,0.0146,0.0676,0.0008,P3,0.0016,True,Validation,Internal Gemma prompt comparison
+KIN,Kinyarwanda,p1,P0 vs P1,0.4213,0.455,0.0337,0.0044,0.0629,0.0244,P1,0.0732,False,Validation,Internal Gemma prompt comparison
+KIN,Kinyarwanda,p2,P0 vs P2,0.4213,0.3915,-0.0298,-0.0622,0.0023,0.0711,P0,0.1422,False,Validation,Internal Gemma prompt comparison
+KIN,Kinyarwanda,p3,P0 vs P3,0.4213,0.4303,0.009,-0.0202,0.0389,0.554,P3,0.554,False,Validation,Internal Gemma prompt comparison
+SUN,Sundanese,p1,P0 vs P1,0.6516,0.5846,-0.067,-0.0997,-0.0365,0.0001,P0,0.0003,True,Validation,Internal Gemma prompt comparison
+SUN,Sundanese,p2,P0 vs P2,0.6516,0.5145,-0.1371,-0.1732,-0.0979,0.0001,P0,0.0003,True,Validation,Internal Gemma prompt comparison
+SUN,Sundanese,p3,P0 vs P3,0.6516,0.5445,-0.1071,-0.143,-0.0698,0.0001,P0,0.0003,True,Validation,Internal Gemma prompt comparison
+YOR,Yoruba,p1,P0 vs P1,0.3479,0.3684,0.0205,-0.0075,0.0487,0.1532,P1,0.4596,False,Validation,Internal Gemma prompt comparison
+YOR,Yoruba,p2,P0 vs P2,0.3479,0.3335,-0.0144,-0.0537,0.0254,0.4724,P0,0.9448,False,Validation,Internal Gemma prompt comparison
+YOR,Yoruba,p3,P0 vs P3,0.3479,0.3582,0.0103,-0.0207,0.0424,0.5243,P3,0.9448,False,Validation,Internal Gemma prompt comparison
+VMW,Emakhuwa,p1,P0 vs P1,0.0209,0.11,0.0891,0.0581,0.1188,0.0001,P1,0.0003,True,Validation,Internal Gemma prompt comparison
+VMW,Emakhuwa,p2,P0 vs P2,0.0209,0.0608,0.0398,0.0028,0.0789,0.0409,P2,0.0409,True,Validation,Internal Gemma prompt comparison
+VMW,Emakhuwa,p3,P0 vs P3,0.0209,0.1581,0.1372,0.0927,0.1815,0.0001,P3,0.0003,True,Validation,Internal Gemma prompt comparison
+PCM,Nigerian Pidgin,p1,P0 vs P1,0.5199,0.5639,0.0439,0.0286,0.0597,0.0001,P1,0.0003,True,Validation,Internal Gemma prompt comparison
+PCM,Nigerian Pidgin,p2,P0 vs P2,0.5199,0.4231,-0.0968,-0.1232,-0.071,0.0001,P0,0.0003,True,Validation,Internal Gemma prompt comparison
+PCM,Nigerian Pidgin,p3,P0 vs P3,0.5199,0.5443,0.0244,0.0053,0.0429,0.0119,P3,0.0119,True,Validation,Internal Gemma prompt comparison

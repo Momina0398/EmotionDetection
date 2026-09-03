@@ -1,0 +1,24 @@
+{
+  "config": {
+    "activation_function": "tanh",
+    "bias": true,
+    "dropout_prob": null,
+    "head_type": "multilabel_classification",
+    "label2id": {
+      "LABEL_0": 0,
+      "LABEL_1": 1,
+      "LABEL_2": 2,
+      "LABEL_3": 3,
+      "LABEL_4": 4
+    },
+    "layers": 2,
+    "num_labels": 5,
+    "use_pooler": false
+  },
+  "hidden_size": 1024,
+  "model_class": "XLMRobertaAdapterModel",
+  "model_name": "xlm-roberta-large",
+  "model_type": "xlm-roberta",
+  "name": "emotion_task",
+  "version": "adapters.1.3.0"
+}

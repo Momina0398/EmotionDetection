@@ -1,0 +1,80 @@
+{
+  "selection_split": "validation",
+  "prompt_source": "/content/drive/MyDrive/EmotionDetection/CAST_checkpoints/Phase2/phase2_validation_raw_results_gemma4.json",
+  "config_source": "/content/drive/MyDrive/EmotionDetection/CAST_checkpoints/Phase3/phase3_serengeti_validation.json",
+  "languages": {
+    "hau": {
+      "best_prompt": "p2",
+      "best_config": "C1",
+      "phase2_val_f1": {
+        "p0": 0.5606,
+        "p1": 0.606,
+        "p2": 0.6063,
+        "p3": 0.6018
+      },
+      "phase3_srng_track_a_f1": {
+        "C1": 0.6974
+      }
+    },
+    "kin": {
+      "best_prompt": "p1",
+      "best_config": "C1",
+      "phase2_val_f1": {
+        "p0": 0.4213,
+        "p1": 0.455,
+        "p2": 0.3915,
+        "p3": 0.4303
+      },
+      "phase3_srng_track_a_f1": {
+        "C1": 0.5946,
+        "C2": 0.5403,
+        "C3": 0.5522
+      }
+    },
+    "yor": {
+      "best_prompt": "p1",
+      "best_config": "C1",
+      "phase2_val_f1": {
+        "p0": 0.3479,
+        "p1": 0.3684,
+        "p2": 0.3335,
+        "p3": 0.3582
+      },
+      "phase3_srng_track_a_f1": {
+        "C1": 0.3504,
+        "C2": 0.3459,
+        "C3": 0.3224
+      }
+    },
+    "vmw": {
+      "best_prompt": "p3",
+      "best_config": "C2",
+      "phase2_val_f1": {
+        "p0": 0.0209,
+        "p1": 0.11,
+        "p2": 0.0608,
+        "p3": 0.1581
+      },
+      "phase3_srng_track_a_f1": {
+        "C1": 0.1786,
+        "C2": 0.2283,
+        "C3": 0.2173
+      }
+    },
+    "pcm": {
+      "best_prompt": "p1",
+      "best_config": "C1",
+      "phase2_val_f1": {
+        "p0": 0.5199,
+        "p1": 0.5639,
+        "p2": 0.4231,
+        "p3": 0.5443
+      },
+      "phase3_srng_track_a_f1": {
+        "C1": 0.544,
+        "C2": 0.474,
+        "C3": 0.4962
+      }
+    }
+  }
+}

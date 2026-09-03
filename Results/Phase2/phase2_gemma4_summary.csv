@@ -1,0 +1,10 @@
+Language,Language code,Resource tier,Linguistic subgroup,P0 macro-F1 (basic prompt),P1 macro-F1 (cultural identity context),P2 macro-F1 (cultural examples),P3 macro-F1 (combined cultural context),Best validation prompt,Best validation macro-F1,Improvement over P0 (best minus P0),Evaluation split,Analysis scope
+English,ENG,1,Germanic,0.6274,0.6112,0.6069,0.6045,P0,0.6274,0.0,Validation,Internal Gemma prompt comparison
+Hindi,HIN,1,Indo-Aryan,0.7421,0.7715,0.7719,0.7752,P3,0.7752,0.0331,Validation,Internal Gemma prompt comparison
+Russian,RUS,1,Slavic,0.818,0.8414,0.8272,0.8412,P1,0.8414,0.0234,Validation,Internal Gemma prompt comparison
+Hausa,HAU,2,Chadic,0.5606,0.606,0.6063,0.6018,P2,0.6063,0.0457,Validation,Internal Gemma prompt comparison
+Kinyarwanda,KIN,2,Bantu (Great Lakes),0.4213,0.455,0.3915,0.4303,P1,0.455,0.0337,Validation,Internal Gemma prompt comparison
+Sundanese,SUN,2,Sundic,0.6516,0.5846,0.5145,0.5445,P0,0.6516,0.0,Validation,Internal Gemma prompt comparison
+Yoruba,YOR,3,Yoruboid,0.3479,0.3684,0.3335,0.3582,P1,0.3684,0.0205,Validation,Internal Gemma prompt comparison
+Emakhuwa,VMW,3,Bantu (Makua-Lomwe),0.0209,0.11,0.0608,0.1581,P3,0.1581,0.1372,Validation,Internal Gemma prompt comparison
+Nigerian Pidgin,PCM,3,English-Based,0.5199,0.5639,0.4231,0.5443,P1,0.5639,0.044,Validation,Internal Gemma prompt comparison

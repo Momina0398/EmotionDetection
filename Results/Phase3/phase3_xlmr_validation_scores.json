@@ -1,0 +1,570 @@
+{
+  "eng": {
+    "C1": {
+      "anger": 0.7333,
+      "fear": 0.7481,
+      "joy": 0.7333,
+      "sadness": 0.75,
+      "surprise": 0.6557,
+      "macro_f1": 0.7241,
+      "macro_f1_raw": 0.7240991949276269
+    },
+    "C2": {
+      "anger": 0.7333,
+      "fear": 0.7805,
+      "joy": 0.678,
+      "sadness": 0.7576,
+      "surprise": 0.7077,
+      "macro_f1": 0.7314,
+      "macro_f1_raw": 0.7314110610348725
+    },
+    "C3": {
+      "anger": 0.7857,
+      "fear": 0.7656,
+      "joy": 0.717,
+      "sadness": 0.7945,
+      "surprise": 0.7541,
+      "macro_f1": 0.7634,
+      "macro_f1_raw": 0.7633878652781401
+    },
+    "track_a_C1": {
+      "anger": 0.7333,
+      "fear": 0.7481,
+      "joy": 0.7333,
+      "sadness": 0.75,
+      "surprise": 0.6557,
+      "macro_f1": 0.7241,
+      "disgust": 0.0
+    },
+    "track_a_C2": {
+      "anger": 0.7333,
+      "fear": 0.7805,
+      "joy": 0.678,
+      "sadness": 0.7576,
+      "surprise": 0.7077,
+      "macro_f1": 0.7314,
+      "disgust": 0.0
+    },
+    "track_a_C3": {
+      "anger": 0.7857,
+      "fear": 0.7656,
+      "joy": 0.717,
+      "sadness": 0.7945,
+      "surprise": 0.7541,
+      "macro_f1": 0.7634,
+      "disgust": 0.0
+    },
+    "track_c_C1": {
+      "anger": 0.1111,
+      "fear": 0.2,
+      "joy": 0.4286,
+      "sadness": 0.6471,
+      "surprise": 0.2222,
+      "macro_f1": 0.3218,
+      "disgust": 0.0
+    },
+    "track_c_C2": {
+      "anger": 0.56,
+      "fear": 0.2029,
+      "joy": 0.5532,
+      "sadness": 0.56,
+      "surprise": 0.2222,
+      "macro_f1": 0.4197,
+      "disgust": 0.0
+    },
+    "track_c_C3": {
+      "anger": 0.1176,
+      "fear": 0.1194,
+      "joy": 0.5238,
+      "sadness": 0.5,
+      "surprise": 0.1212,
+      "macro_f1": 0.2764,
+      "disgust": 0.0
+    }
+  },
+  "yor": {
+    "C1": {
+      "anger": 0.3273,
+      "disgust": 0.0,
+      "fear": 0.0,
+      "joy": 0.4384,
+      "sadness": 0.5686,
+      "surprise": 0.2817,
+      "macro_f1": 0.2693,
+      "macro_f1_raw": 0.26932441391362527
+    },
+    "C2": {
+      "anger": 0.2857,
+      "disgust": 0.24,
+      "fear": 0.0,
+      "joy": 0.3596,
+      "sadness": 0.5176,
+      "surprise": 0.3297,
+      "macro_f1": 0.2888,
+      "macro_f1_raw": 0.28876370600098294
+    },
+    "C3": {
+      "anger": 0.1695,
+      "disgust": 0.25,
+      "fear": 0.0,
+      "joy": 0.4421,
+      "sadness": 0.5845,
+      "surprise": 0.255,
+      "macro_f1": 0.2835,
+      "macro_f1_raw": 0.2835262610431627
+    },
+    "track_a_C1": {
+      "anger": 0.3273,
+      "disgust": 0.0,
+      "fear": 0.0,
+      "joy": 0.4384,
+      "sadness": 0.5686,
+      "surprise": 0.2817,
+      "macro_f1": 0.2693
+    },
+    "track_a_C2": {
+      "anger": 0.2857,
+      "disgust": 0.24,
+      "fear": 0.0,
+      "joy": 0.3596,
+      "sadness": 0.5176,
+      "surprise": 0.3297,
+      "macro_f1": 0.2888
+    },
+    "track_a_C3": {
+      "anger": 0.1695,
+      "disgust": 0.25,
+      "fear": 0.0,
+      "joy": 0.4421,
+      "sadness": 0.5845,
+      "surprise": 0.255,
+      "macro_f1": 0.2835
+    },
+    "track_c_C1": {
+      "anger": 0.1538,
+      "disgust": 0.0,
+      "fear": 0.0909,
+      "joy": 0.0632,
+      "sadness": 0.3292,
+      "surprise": 0.2933,
+      "macro_f1": 0.1551
+    },
+    "track_c_C2": {
+      "anger": 0.0811,
+      "disgust": 0.0131,
+      "fear": 0.0638,
+      "joy": 0.0714,
+      "sadness": 0.274,
+      "surprise": 0.1277,
+      "macro_f1": 0.1052
+    },
+    "track_c_C3": {
+      "macro_f1": null,
+      "note": "N/A -- empty source pool"
+    }
+  },
+  "hin": {
+    "C1": {
+      "anger": 0.8571,
+      "disgust": 0.9,
+      "fear": 0.8571,
+      "joy": 0.7826,
+      "sadness": 0.7742,
+      "surprise": 0.8889,
+      "macro_f1": 0.8433,
+      "macro_f1_raw": 0.8433294745356456
+    },
+    "C2": {
+      "anger": 0.8,
+      "disgust": 0.6667,
+      "fear": 0.8276,
+      "joy": 0.8696,
+      "sadness": 0.7647,
+      "surprise": 0.8889,
+      "macro_f1": 0.8029,
+      "macro_f1_raw": 0.8029021436993921
+    },
+    "C3": {
+      "anger": 0.8667,
+      "disgust": 0.6667,
+      "fear": 0.8667,
+      "joy": 0.9,
+      "sadness": 0.8235,
+      "surprise": 0.8421,
+      "macro_f1": 0.8276,
+      "macro_f1_raw": 0.8276057791537667
+    },
+    "track_a_C1": {
+      "anger": 0.8571,
+      "disgust": 0.9,
+      "fear": 0.8571,
+      "joy": 0.7826,
+      "sadness": 0.7742,
+      "surprise": 0.8889,
+      "macro_f1": 0.8433
+    },
+    "track_a_C2": {
+      "anger": 0.8,
+      "disgust": 0.6667,
+      "fear": 0.8276,
+      "joy": 0.8696,
+      "sadness": 0.7647,
+      "surprise": 0.8889,
+      "macro_f1": 0.8029
+    },
+    "track_a_C3": {
+      "anger": 0.8667,
+      "disgust": 0.6667,
+      "fear": 0.8667,
+      "joy": 0.9,
+      "sadness": 0.8235,
+      "surprise": 0.8421,
+      "macro_f1": 0.8276
+    },
+    "track_c_C1": {
+      "anger": 0.8,
+      "disgust": 0.4615,
+      "fear": 0.75,
+      "joy": 0.4865,
+      "sadness": 0.6667,
+      "surprise": 0.72,
+      "macro_f1": 0.6474
+    },
+    "track_c_C2": {
+      "anger": 0.8485,
+      "disgust": 0.8,
+      "fear": 0.8276,
+      "joy": 0.5625,
+      "sadness": 0.7895,
+      "surprise": 0.8182,
+      "macro_f1": 0.7744
+    },
+    "track_c_C3": {
+      "anger": 0.6667,
+      "disgust": 0.2857,
+      "fear": 0.6897,
+      "joy": 0.72,
+      "sadness": 0.7895,
+      "surprise": 0.8889,
+      "macro_f1": 0.6734
+    }
+  },
+  "pcm": {
+    "track_a_C1": {
+      "anger": 0.3462,
+      "disgust": 0.729,
+      "fear": 0.3119,
+      "joy": 0.7245,
+      "sadness": 0.6392,
+      "surprise": 0.4594,
+      "macro_f1": 0.535
+    },
+    "track_a_C2": {
+      "anger": 0.3396,
+      "disgust": 0.7569,
+      "fear": 0.4628,
+      "joy": 0.7273,
+      "sadness": 0.6488,
+      "surprise": 0.4897,
+      "macro_f1": 0.5708
+    },
+    "track_a_C3": {
+      "anger": 0.3333,
+      "disgust": 0.7329,
+      "fear": 0.3619,
+      "joy": 0.6813,
+      "sadness": 0.6378,
+      "surprise": 0.4286,
+      "macro_f1": 0.5293
+    },
+    "track_c_C1": {
+      "anger": 0.2796,
+      "disgust": 0.0063,
+      "fear": 0.3297,
+      "joy": 0.5923,
+      "sadness": 0.5263,
+      "surprise": 0.4632,
+      "macro_f1": 0.3662
+    },
+    "track_c_C2": {
+      "anger": 0.2837,
+      "disgust": 0.0,
+      "fear": 0.3017,
+      "joy": 0.5663,
+      "sadness": 0.5232,
+      "surprise": 0.4201,
+      "macro_f1": 0.3492
+    },
+    "track_c_C3": {
+      "anger": 0.2519,
+      "disgust": 0.0,
+      "fear": 0.3006,
+      "joy": 0.56,
+      "sadness": 0.451,
+      "surprise": 0.5112,
+      "macro_f1": 0.3458
+    }
+  },
+  "rus": {
+    "track_a_C1": {
+      "anger": 0.8602,
+      "disgust": 0.88,
+      "fear": 0.913,
+      "joy": 0.875,
+      "sadness": 0.8378,
+      "surprise": 0.84,
+      "macro_f1": 0.8677
+    },
+    "track_a_C2": {
+      "anger": 0.8387,
+      "disgust": 0.898,
+      "fear": 0.9091,
+      "joy": 0.8485,
+      "sadness": 0.8919,
+      "surprise": 0.8333,
+      "macro_f1": 0.8699
+    },
+    "track_a_C3": {
+      "anger": 0.8409,
+      "disgust": 0.92,
+      "fear": 0.9524,
+      "joy": 0.8529,
+      "sadness": 0.8533,
+      "surprise": 0.8511,
+      "macro_f1": 0.8784
+    },
+    "track_c_C1": {
+      "anger": 0.8132,
+      "disgust": 0.5882,
+      "fear": 0.75,
+      "joy": 0.7397,
+      "sadness": 0.7711,
+      "surprise": 0.6667,
+      "macro_f1": 0.7215
+    },
+    "track_c_C2": {
+      "anger": 0.8696,
+      "disgust": 0.8,
+      "fear": 0.9091,
+      "joy": 0.8136,
+      "sadness": 0.825,
+      "surprise": 0.75,
+      "macro_f1": 0.8279
+    },
+    "track_c_C3": {
+      "anger": 0.3548,
+      "disgust": 0.1935,
+      "fear": 0.8636,
+      "joy": 0.8,
+      "sadness": 0.8108,
+      "surprise": 0.766,
+      "macro_f1": 0.6315
+    }
+  },
+  "hau": {
+    "track_a_C1": {
+      "anger": 0.6562,
+      "disgust": 0.6742,
+      "fear": 0.8073,
+      "joy": 0.6869,
+      "sadness": 0.6761,
+      "surprise": 0.5743,
+      "macro_f1": 0.6792
+    },
+    "track_a_C2": {
+      "anger": 0.56,
+      "disgust": 0.7083,
+      "fear": 0.7748,
+      "joy": 0.7143,
+      "sadness": 0.7136,
+      "surprise": 0.5349,
+      "macro_f1": 0.6676
+    },
+    "track_a_C3": {
+      "anger": 0.56,
+      "disgust": 0.7083,
+      "fear": 0.7748,
+      "joy": 0.7143,
+      "sadness": 0.7136,
+      "surprise": 0.5349,
+      "macro_f1": 0.6676,
+      "aliased_from": "track_a_C2"
+    },
+    "track_c_C1": {
+      "anger": 0.2716,
+      "disgust": 0.1622,
+      "fear": 0.1034,
+      "joy": 0.4783,
+      "sadness": 0.524,
+      "surprise": 0.2703,
+      "macro_f1": 0.3016
+    },
+    "track_c_C2": {
+      "anger": 0.0571,
+      "disgust": 0.0,
+      "fear": 0.0,
+      "joy": 0.2308,
+      "sadness": 0.0,
+      "surprise": 0.0,
+      "macro_f1": 0.048
+    },
+    "track_c_C3": {
+      "anger": 0.0571,
+      "disgust": 0.0,
+      "fear": 0.0,
+      "joy": 0.2308,
+      "sadness": 0.0,
+      "surprise": 0.0,
+      "macro_f1": 0.048,
+      "aliased_from": "track_c_C2"
+    }
+  },
+  "kin": {
+    "track_a_C1": {
+      "anger": 0.5114,
+      "disgust": 0.6341,
+      "fear": 0.0,
+      "joy": 0.4762,
+      "sadness": 0.5263,
+      "surprise": 0.1818,
+      "macro_f1": 0.3883
+    },
+    "track_a_C2": {
+      "anger": 0.433,
+      "disgust": 0.5714,
+      "fear": 0.2338,
+      "joy": 0.4457,
+      "sadness": 0.5246,
+      "surprise": 0.0714,
+      "macro_f1": 0.38
+    },
+    "track_a_C3": {
+      "anger": 0.4049,
+      "disgust": 0.7442,
+      "fear": 0.2308,
+      "joy": 0.4375,
+      "sadness": 0.5283,
+      "surprise": 0.0833,
+      "macro_f1": 0.4048
+    },
+    "track_c_C1": {
+      "anger": 0.2617,
+      "disgust": 0.0667,
+      "fear": 0.0,
+      "joy": 0.2676,
+      "sadness": 0.1791,
+      "surprise": 0.1,
+      "macro_f1": 0.1458
+    },
+    "track_c_C2": {
+      "anger": 0.2703,
+      "disgust": 0.0654,
+      "fear": 0.0,
+      "joy": 0.3274,
+      "sadness": 0.0741,
+      "surprise": 0.0833,
+      "macro_f1": 0.1367
+    },
+    "track_c_C3": {
+      "anger": 0.1463,
+      "disgust": 0.0,
+      "fear": 0.069,
+      "joy": 0.1699,
+      "sadness": 0.2955,
+      "surprise": 0.0769,
+      "macro_f1": 0.1263
+    }
+  },
+  "sun": {
+    "track_a_C1": {
+      "anger": 0.4118,
+      "disgust": 0.56,
+      "fear": 0.1429,
+      "joy": 0.8933,
+      "sadness": 0.7381,
+      "surprise": 0.275,
+      "macro_f1": 0.5035
+    },
+    "track_a_C2": {
+      "macro_f1": null,
+      "note": "N/A -- empty family/genus pool (no Arabic data used; Hausa is the only Afroasiatic BRIGHTER target)"
+    },
+    "track_a_C3": {
+      "macro_f1": null,
+      "note": "N/A -- empty family/genus pool (no Arabic data used; Hausa is the only Afroasiatic BRIGHTER target)"
+    },
+    "track_c_C1": {
+      "anger": 0.087,
+      "disgust": 0.1739,
+      "fear": 0.1538,
+      "joy": 0.5825,
+      "sadness": 0.6753,
+      "surprise": 0.2637,
+      "macro_f1": 0.3227
+    },
+    "track_c_C2": {
+      "macro_f1": null,
+      "note": "N/A -- empty family/genus pool (no Arabic data used; Hausa is the only Afroasiatic BRIGHTER target)"
+    },
+    "track_c_C3": {
+      "macro_f1": null,
+      "note": "N/A -- empty family/genus pool (no Arabic data used; Hausa is the only Afroasiatic BRIGHTER target)"
+    }
+  },
+  "vmw": {
+    "track_a_C1": {
+      "anger": 0.2609,
+      "disgust": 0.0,
+      "fear": 0.2564,
+      "joy": 0.1935,
+      "sadness": 0.3371,
+      "surprise": 0.0741,
+      "macro_f1": 0.187
+    },
+    "track_a_C2": {
+      "anger": 0.08,
+      "disgust": 0.0833,
+      "fear": 0.1786,
+      "joy": 0.1778,
+      "sadness": 0.4,
+      "surprise": 0.303,
+      "macro_f1": 0.2038
+    },
+    "track_a_C3": {
+      "anger": 0.1,
+      "disgust": 0.25,
+      "fear": 0.1333,
+      "joy": 0.2647,
+      "sadness": 0.0408,
+      "surprise": 0.3014,
+      "macro_f1": 0.1817
+    },
+    "track_c_C1": {
+      "anger": 0.0,
+      "disgust": 0.0645,
+      "fear": 0.2,
+      "joy": 0.0714,
+      "sadness": 0.237,
+      "surprise": 0.0,
+      "macro_f1": 0.0955
+    },
+    "track_c_C2": {
+      "anger": 0.0,
+      "disgust": 0.1176,
+      "fear": 0.0,
+      "joy": 0.1852,
+      "sadness": 0.0377,
+      "surprise": 0.1132,
+      "macro_f1": 0.0756
+    },
+    "track_c_C3": {
+      "anger": 0.0606,
+      "disgust": 0.0727,
+      "fear": 0.0,
+      "joy": 0.0,
+      "sadness": 0.069,
+      "surprise": 0.2759,
+      "macro_f1": 0.0797
+    }
+  }
+}

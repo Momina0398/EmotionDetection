@@ -1,0 +1,672 @@
+{
+  "majority": {
+    "track_a": {
+      "eng": {
+        "anger": 0.2078,
+        "fear": 0.7168,
+        "joy": 0.39,
+        "sadness": 0.4826,
+        "surprise": 0.4483,
+        "macro_f1": 0.4491
+      },
+      "hin": {
+        "anger": 0.275,
+        "disgust": 0.198,
+        "fear": 0.2526,
+        "joy": 0.3181,
+        "sadness": 0.2867,
+        "surprise": 0.2541,
+        "macro_f1": 0.2641
+      },
+      "rus": {
+        "anger": 0.3687,
+        "disgust": 0.2175,
+        "fear": 0.1949,
+        "joy": 0.3236,
+        "sadness": 0.2472,
+        "surprise": 0.2191,
+        "macro_f1": 0.2618
+      },
+      "hau": {
+        "anger": 0.3243,
+        "disgust": 0.2692,
+        "fear": 0.2706,
+        "joy": 0.2609,
+        "sadness": 0.4659,
+        "surprise": 0.2816,
+        "macro_f1": 0.3121
+      },
+      "kin": {
+        "anger": 0.3091,
+        "disgust": 0.0988,
+        "fear": 0.1105,
+        "joy": 0.2938,
+        "sadness": 0.4106,
+        "surprise": 0.0826,
+        "macro_f1": 0.2176
+      },
+      "sun": {
+        "anger": 0.1663,
+        "disgust": 0.1349,
+        "fear": 0.0947,
+        "joy": 0.8418,
+        "sadness": 0.374,
+        "surprise": 0.3924,
+        "macro_f1": 0.334
+      },
+      "yor": {
+        "anger": 0.1227,
+        "disgust": 0.0519,
+        "fear": 0.0532,
+        "joy": 0.1674,
+        "sadness": 0.4359,
+        "surprise": 0.1572,
+        "macro_f1": 0.1647
+      },
+      "vmw": {
+        "anger": 0.1095,
+        "disgust": 0.0815,
+        "fear": 0.1322,
+        "joy": 0.2281,
+        "sadness": 0.3035,
+        "surprise": 0.1209,
+        "macro_f1": 0.1626
+      },
+      "pcm": {
+        "anger": 0.1649,
+        "disgust": 0.6719,
+        "fear": 0.1985,
+        "joy": 0.2661,
+        "sadness": 0.4213,
+        "surprise": 0.4173,
+        "macro_f1": 0.3566
+      }
+    },
+    "track_c": {
+      "eng": {
+        "anger": 0.2078,
+        "disgust": 0.0,
+        "fear": 0.7168,
+        "joy": 0.39,
+        "sadness": 0.4826,
+        "surprise": 0.4483,
+        "macro_f1": 0.4491
+      },
+      "hin": {
+        "anger": 0.275,
+        "disgust": 0.198,
+        "fear": 0.2526,
+        "joy": 0.3181,
+        "sadness": 0.2867,
+        "surprise": 0.2541,
+        "macro_f1": 0.2641
+      },
+      "rus": {
+        "anger": 0.3687,
+        "disgust": 0.2175,
+        "fear": 0.1949,
+        "joy": 0.3236,
+        "sadness": 0.2472,
+        "surprise": 0.2191,
+        "macro_f1": 0.2618
+      },
+      "hau": {
+        "anger": 0.3243,
+        "disgust": 0.2692,
+        "fear": 0.2706,
+        "joy": 0.2609,
+        "sadness": 0.4659,
+        "surprise": 0.2816,
+        "macro_f1": 0.3121
+      },
+      "kin": {
+        "anger": 0.3091,
+        "disgust": 0.0988,
+        "fear": 0.1105,
+        "joy": 0.2938,
+        "sadness": 0.4106,
+        "surprise": 0.0826,
+        "macro_f1": 0.2176
+      },
+      "sun": {
+        "anger": 0.1663,
+        "disgust": 0.1349,
+        "fear": 0.0947,
+        "joy": 0.8418,
+        "sadness": 0.374,
+        "surprise": 0.3924,
+        "macro_f1": 0.334
+      },
+      "yor": {
+        "anger": 0.1227,
+        "disgust": 0.0519,
+        "fear": 0.0532,
+        "joy": 0.1674,
+        "sadness": 0.4359,
+        "surprise": 0.1572,
+        "macro_f1": 0.1647
+      },
+      "vmw": {
+        "anger": 0.1095,
+        "disgust": 0.0815,
+        "fear": 0.1322,
+        "joy": 0.2281,
+        "sadness": 0.3035,
+        "surprise": 0.1209,
+        "macro_f1": 0.1626
+      },
+      "pcm": {
+        "anger": 0.1649,
+        "disgust": 0.6719,
+        "fear": 0.1985,
+        "joy": 0.2661,
+        "sadness": 0.4213,
+        "surprise": 0.4173,
+        "macro_f1": 0.3566
+      }
+    }
+  },
+  "xlmr": {
+    "track_a": {
+      "hin": {
+        "anger": 0.8328,
+        "disgust": 0.802,
+        "fear": 0.8881,
+        "joy": 0.8789,
+        "sadness": 0.8199,
+        "surprise": 0.9085,
+        "macro_f1": 0.855
+      },
+      "rus": {
+        "anger": 0.8834,
+        "disgust": 0.8707,
+        "fear": 0.9202,
+        "joy": 0.9171,
+        "sadness": 0.8261,
+        "surprise": 0.8571,
+        "macro_f1": 0.8791
+      },
+      "hau": {
+        "anger": 0.5505,
+        "disgust": 0.7358,
+        "fear": 0.7224,
+        "joy": 0.5512,
+        "sadness": 0.7306,
+        "surprise": 0.5053,
+        "macro_f1": 0.6326
+      },
+      "kin": {
+        "anger": 0.4659,
+        "disgust": 0.6842,
+        "fear": 0.1315,
+        "joy": 0.461,
+        "sadness": 0.4806,
+        "surprise": 0.1333,
+        "macro_f1": 0.3928
+      },
+      "sun": {
+        "anger": 0.0,
+        "disgust": 0.0,
+        "fear": 0.0,
+        "joy": 0.8418,
+        "sadness": 0.374,
+        "surprise": 0.0,
+        "macro_f1": 0.2026
+      },
+      "yor": {
+        "anger": 0.0,
+        "disgust": 0.0,
+        "fear": 0.0,
+        "joy": 0.1674,
+        "sadness": 0.4359,
+        "surprise": 0.1572,
+        "macro_f1": 0.1267
+      },
+      "pcm": {
+        "anger": 0.3866,
+        "disgust": 0.7461,
+        "fear": 0.3609,
+        "joy": 0.7086,
+        "sadness": 0.666,
+        "surprise": 0.5468,
+        "macro_f1": 0.5692
+      },
+      "eng": {
+        "anger": 0.166,
+        "fear": 0.779,
+        "joy": 0.5971,
+        "sadness": 0.6173,
+        "surprise": 0.6022,
+        "macro_f1": 0.5523
+      },
+      "vmw": {
+        "anger": 0.0,
+        "disgust": 0.0,
+        "fear": 0.0,
+        "joy": 0.2281,
+        "sadness": 0.0,
+        "surprise": 0.0,
+        "macro_f1": 0.038
+      }
+    },
+    "track_c": {
+      "eng": {
+        "anger": 0.2634,
+        "disgust": 0.0,
+        "fear": 0.3818,
+        "joy": 0.5039,
+        "sadness": 0.6001,
+        "surprise": 0.3592,
+        "macro_f1": 0.4217
+      },
+      "hin": {
+        "anger": 0.6836,
+        "disgust": 0.6339,
+        "fear": 0.7263,
+        "joy": 0.8642,
+        "sadness": 0.7681,
+        "surprise": 0.739,
+        "macro_f1": 0.7359
+      },
+      "rus": {
+        "anger": 0.7742,
+        "disgust": 0.3694,
+        "fear": 0.5722,
+        "joy": 0.8194,
+        "sadness": 0.7451,
+        "surprise": 0.6801,
+        "macro_f1": 0.6601
+      },
+      "hau": {
+        "anger": 0.3243,
+        "disgust": 0.0,
+        "fear": 0.2706,
+        "joy": 0.2609,
+        "sadness": 0.0,
+        "surprise": 0.0,
+        "macro_f1": 0.1426
+      },
+      "kin": {
+        "anger": 0.2755,
+        "disgust": 0.0,
+        "fear": 0.0,
+        "joy": 0.1456,
+        "sadness": 0.159,
+        "surprise": 0.0,
+        "macro_f1": 0.0967
+      },
+      "sun": {
+        "anger": 0.2754,
+        "disgust": 0.233,
+        "fear": 0.0,
+        "joy": 0.4978,
+        "sadness": 0.6882,
+        "surprise": 0.3187,
+        "macro_f1": 0.3355
+      },
+      "yor": {
+        "anger": 0.0968,
+        "disgust": 0.0,
+        "fear": 0.029,
+        "joy": 0.1081,
+        "sadness": 0.2196,
+        "surprise": 0.0939,
+        "macro_f1": 0.0912
+      },
+      "vmw": {
+        "anger": 0.0,
+        "disgust": 0.0,
+        "fear": 0.0345,
+        "joy": 0.0339,
+        "sadness": 0.1958,
+        "surprise": 0.0,
+        "macro_f1": 0.044
+      },
+      "pcm": {
+        "anger": 0.2848,
+        "disgust": 0.0167,
+        "fear": 0.326,
+        "joy": 0.5527,
+        "sadness": 0.4889,
+        "surprise": 0.4228,
+        "macro_f1": 0.3487
+      }
+    }
+  },
+  "gemma4_31b": {
+    "track_a": {
+      "eng": {
+        "anger": 0.7407,
+        "disgust": 0.0,
+        "fear": 0.5176,
+        "joy": 0.6522,
+        "sadness": 0.6667,
+        "surprise": 0.56,
+        "macro_f1": 0.6274
+      },
+      "hin": {
+        "anger": 0.7895,
+        "disgust": 0.6429,
+        "fear": 0.875,
+        "joy": 0.6286,
+        "sadness": 0.7895,
+        "surprise": 0.7273,
+        "macro_f1": 0.7421
+      },
+      "rus": {
+        "anger": 0.8364,
+        "disgust": 0.8333,
+        "fear": 0.866,
+        "joy": 0.8354,
+        "sadness": 0.8506,
+        "surprise": 0.6866,
+        "macro_f1": 0.818
+      },
+      "hau": {
+        "anger": 0.5882,
+        "disgust": 0.4473,
+        "fear": 0.5969,
+        "joy": 0.6338,
+        "sadness": 0.6583,
+        "surprise": 0.4393,
+        "macro_f1": 0.5606
+      },
+      "kin": {
+        "anger": 0.5614,
+        "disgust": 0.2527,
+        "fear": 0.3883,
+        "joy": 0.5972,
+        "sadness": 0.5613,
+        "surprise": 0.1667,
+        "macro_f1": 0.4213
+      },
+      "sun": {
+        "anger": 0.6875,
+        "disgust": 0.4615,
+        "fear": 0.5882,
+        "joy": 0.8897,
+        "sadness": 0.8395,
+        "surprise": 0.443,
+        "macro_f1": 0.6516
+      },
+      "yor": {
+        "anger": 0.3096,
+        "disgust": 0.3158,
+        "fear": 0.3333,
+        "joy": 0.3088,
+        "sadness": 0.5584,
+        "surprise": 0.2614,
+        "macro_f1": 0.3479
+      },
+      "vmw": {
+        "anger": 0.0,
+        "disgust": 0.0,
+        "fear": 0.087,
+        "joy": 0.0,
+        "sadness": 0.0385,
+        "surprise": 0.0,
+        "macro_f1": 0.0209
+      },
+      "pcm": {
+        "anger": 0.2897,
+        "disgust": 0.5154,
+        "fear": 0.5083,
+        "joy": 0.6857,
+        "sadness": 0.6656,
+        "surprise": 0.4547,
+        "macro_f1": 0.5199
+      }
+    },
+    "track_c": {
+      "eng": {
+        "anger": 0.7407,
+        "disgust": 0.0,
+        "fear": 0.5176,
+        "joy": 0.6522,
+        "sadness": 0.6667,
+        "surprise": 0.56,
+        "macro_f1": 0.6274
+      },
+      "hin": {
+        "anger": 0.7895,
+        "disgust": 0.6429,
+        "fear": 0.875,
+        "joy": 0.6286,
+        "sadness": 0.7895,
+        "surprise": 0.7273,
+        "macro_f1": 0.7421
+      },
+      "rus": {
+        "anger": 0.8364,
+        "disgust": 0.8333,
+        "fear": 0.866,
+        "joy": 0.8354,
+        "sadness": 0.8506,
+        "surprise": 0.6866,
+        "macro_f1": 0.818
+      },
+      "hau": {
+        "anger": 0.5882,
+        "disgust": 0.4473,
+        "fear": 0.5969,
+        "joy": 0.6338,
+        "sadness": 0.6583,
+        "surprise": 0.4393,
+        "macro_f1": 0.5606
+      },
+      "kin": {
+        "anger": 0.5614,
+        "disgust": 0.2527,
+        "fear": 0.3883,
+        "joy": 0.5972,
+        "sadness": 0.5613,
+        "surprise": 0.1667,
+        "macro_f1": 0.4213
+      },
+      "sun": {
+        "anger": 0.6875,
+        "disgust": 0.4615,
+        "fear": 0.5882,
+        "joy": 0.8897,
+        "sadness": 0.8395,
+        "surprise": 0.443,
+        "macro_f1": 0.6516
+      },
+      "yor": {
+        "anger": 0.3096,
+        "disgust": 0.3158,
+        "fear": 0.3333,
+        "joy": 0.3088,
+        "sadness": 0.5584,
+        "surprise": 0.2614,
+        "macro_f1": 0.3479
+      },
+      "vmw": {
+        "anger": 0.0,
+        "disgust": 0.0,
+        "fear": 0.087,
+        "joy": 0.0,
+        "sadness": 0.0385,
+        "surprise": 0.0,
+        "macro_f1": 0.0209
+      },
+      "pcm": {
+        "anger": 0.2897,
+        "disgust": 0.5154,
+        "fear": 0.5083,
+        "joy": 0.6857,
+        "sadness": 0.6656,
+        "surprise": 0.4547,
+        "macro_f1": 0.5199
+      }
+    }
+  },
+  "canonical_p0_source": "/content/drive/MyDrive/EmotionDetection/CAST_checkpoints/Phase2/phase2_validation_raw_results_gemma4.json",
+  "serengeti": {
+    "track_a": {
+      "eng": {
+        "anger": 0.5108,
+        "fear": 0.7666,
+        "joy": 0.6414,
+        "sadness": 0.6786,
+        "surprise": 0.6327,
+        "macro_f1": 0.646
+      },
+      "hin": {
+        "anger": 0.6283,
+        "disgust": 0.5019,
+        "fear": 0.479,
+        "joy": 0.4958,
+        "sadness": 0.4469,
+        "surprise": 0.5891,
+        "macro_f1": 0.5235
+      },
+      "rus": {
+        "anger": 0.8168,
+        "disgust": 0.8082,
+        "fear": 0.9202,
+        "joy": 0.871,
+        "sadness": 0.7899,
+        "surprise": 0.7863,
+        "macro_f1": 0.832
+      },
+      "hau": {
+        "anger": 0.6095,
+        "disgust": 0.8293,
+        "fear": 0.7556,
+        "joy": 0.6322,
+        "sadness": 0.6996,
+        "surprise": 0.6536,
+        "macro_f1": 0.6966
+      },
+      "kin": {
+        "anger": 0.5635,
+        "disgust": 0.8872,
+        "fear": 0.4393,
+        "joy": 0.6742,
+        "sadness": 0.6376,
+        "surprise": 0.0545,
+        "macro_f1": 0.5427
+      },
+      "sun": {
+        "anger": 0.2683,
+        "disgust": 0.1965,
+        "fear": 0.1194,
+        "joy": 0.8537,
+        "sadness": 0.5782,
+        "surprise": 0.0,
+        "macro_f1": 0.336
+      },
+      "yor": {
+        "anger": 0.4032,
+        "disgust": 0.3016,
+        "fear": 0.2632,
+        "joy": 0.4384,
+        "sadness": 0.7028,
+        "surprise": 0.3275,
+        "macro_f1": 0.4061
+      },
+      "vmw": {
+        "anger": 0.1576,
+        "disgust": 0.1176,
+        "fear": 0.172,
+        "joy": 0.1711,
+        "sadness": 0.2566,
+        "surprise": 0.12,
+        "macro_f1": 0.1658
+      },
+      "pcm": {
+        "anger": 0.3568,
+        "disgust": 0.7394,
+        "fear": 0.3676,
+        "joy": 0.717,
+        "sadness": 0.6334,
+        "surprise": 0.5416,
+        "macro_f1": 0.5593
+      }
+    },
+    "track_c": {
+      "eng": {
+        "anger": 0.171,
+        "disgust": 0.0,
+        "fear": 0.1285,
+        "joy": 0.5456,
+        "sadness": 0.5569,
+        "surprise": 0.5259,
+        "macro_f1": 0.3856
+      },
+      "hin": {
+        "anger": 0.2869,
+        "disgust": 0.0,
+        "fear": 0.0,
+        "joy": 0.1167,
+        "sadness": 0.0227,
+        "surprise": 0.0392,
+        "macro_f1": 0.0776
+      },
+      "rus": {
+        "anger": 0.5644,
+        "disgust": 0.1646,
+        "fear": 0.4856,
+        "joy": 0.6814,
+        "sadness": 0.4214,
+        "surprise": 0.4814,
+        "macro_f1": 0.4665
+      },
+      "hau": {
+        "anger": 0.4147,
+        "disgust": 0.4116,
+        "fear": 0.2789,
+        "joy": 0.5353,
+        "sadness": 0.5969,
+        "surprise": 0.4065,
+        "macro_f1": 0.4406
+      },
+      "kin": {
+        "anger": 0.4286,
+        "disgust": 0.32,
+        "fear": 0.3094,
+        "joy": 0.5794,
+        "sadness": 0.6095,
+        "surprise": 0.1322,
+        "macro_f1": 0.3965
+      },
+      "sun": {
+        "anger": 0.0612,
+        "disgust": 0.0566,
+        "fear": 0.0,
+        "joy": 0.6107,
+        "sadness": 0.249,
+        "surprise": 0.2897,
+        "macro_f1": 0.2112
+      },
+      "yor": {
+        "anger": 0.2339,
+        "disgust": 0.1268,
+        "fear": 0.1074,
+        "joy": 0.235,
+        "sadness": 0.554,
+        "surprise": 0.2112,
+        "macro_f1": 0.2447
+      },
+      "vmw": {
+        "anger": 0.0385,
+        "disgust": 0.026,
+        "fear": 0.1,
+        "joy": 0.1765,
+        "sadness": 0.2203,
+        "surprise": 0.1757,
+        "macro_f1": 0.1228
+      },
+      "pcm": {
+        "anger": 0.2447,
+        "disgust": 0.0188,
+        "fear": 0.2821,
+        "joy": 0.5126,
+        "sadness": 0.4767,
+        "surprise": 0.4772,
+        "macro_f1": 0.3353
+      }
+    }
+  }
+}

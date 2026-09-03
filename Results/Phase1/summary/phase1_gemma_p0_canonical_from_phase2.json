@@ -1,0 +1,88 @@
+{
+  "source": "/content/drive/MyDrive/EmotionDetection/CAST_checkpoints/Phase2/phase2_validation_raw_results_gemma4.json",
+  "condition": "p0",
+  "role": "Phase 1 B3 baseline and Phase 4 neither condition",
+  "results": {
+    "eng": {
+      "anger": 0.7407,
+      "disgust": 0.0,
+      "fear": 0.5176,
+      "joy": 0.6522,
+      "sadness": 0.6667,
+      "surprise": 0.56,
+      "macro_f1": 0.6274
+    },
+    "hin": {
+      "anger": 0.7895,
+      "disgust": 0.6429,
+      "fear": 0.875,
+      "joy": 0.6286,
+      "sadness": 0.7895,
+      "surprise": 0.7273,
+      "macro_f1": 0.7421
+    },
+    "rus": {
+      "anger": 0.8364,
+      "disgust": 0.8333,
+      "fear": 0.866,
+      "joy": 0.8354,
+      "sadness": 0.8506,
+      "surprise": 0.6866,
+      "macro_f1": 0.818
+    },
+    "hau": {
+      "anger": 0.5882,
+      "disgust": 0.4473,
+      "fear": 0.5969,
+      "joy": 0.6338,
+      "sadness": 0.6583,
+      "surprise": 0.4393,
+      "macro_f1": 0.5606
+    },
+    "kin": {
+      "anger": 0.5614,
+      "disgust": 0.2527,
+      "fear": 0.3883,
+      "joy": 0.5972,
+      "sadness": 0.5613,
+      "surprise": 0.1667,
+      "macro_f1": 0.4213
+    },
+    "sun": {
+      "anger": 0.6875,
+      "disgust": 0.4615,
+      "fear": 0.5882,
+      "joy": 0.8897,
+      "sadness": 0.8395,
+      "surprise": 0.443,
+      "macro_f1": 0.6516
+    },
+    "yor": {
+      "anger": 0.3096,
+      "disgust": 0.3158,
+      "fear": 0.3333,
+      "joy": 0.3088,
+      "sadness": 0.5584,
+      "surprise": 0.2614,
+      "macro_f1": 0.3479
+    },
+    "vmw": {
+      "anger": 0.0,
+      "disgust": 0.0,
+      "fear": 0.087,
+      "joy": 0.0,
+      "sadness": 0.0385,
+      "surprise": 0.0,
+      "macro_f1": 0.0209
+    },
+    "pcm": {
+      "anger": 0.2897,
+      "disgust": 0.5154,
+      "fear": 0.5083,
+      "joy": 0.6857,
+      "sadness": 0.6656,
+      "surprise": 0.4547,
+      "macro_f1": 0.5199
+    }
+  }
+}

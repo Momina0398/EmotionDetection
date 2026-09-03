@@ -1,0 +1,140 @@
+{
+  "selection_split": "validation",
+  "prompt_source": "/content/drive/MyDrive/EmotionDetection/CAST_checkpoints/Phase2/phase2_validation_raw_results_gemma4.json",
+  "config_source": "/content/drive/MyDrive/EmotionDetection/CAST_checkpoints/Phase3/phase3_xlmr_validation_scores.json",
+  "languages": {
+    "eng": {
+      "best_prompt": "p0",
+      "best_config": "C3",
+      "phase2_validation_f1": {
+        "p0": 0.6274,
+        "p1": 0.6112,
+        "p2": 0.6069,
+        "p3": 0.6045
+      },
+      "phase3_validation_f1": {
+        "C1": 0.7241,
+        "C2": 0.7314,
+        "C3": 0.7634
+      }
+    },
+    "hin": {
+      "best_prompt": "p3",
+      "best_config": "C1",
+      "phase2_validation_f1": {
+        "p0": 0.7421,
+        "p1": 0.7715,
+        "p2": 0.7719,
+        "p3": 0.7752
+      },
+      "phase3_validation_f1": {
+        "C1": 0.8433,
+        "C2": 0.8029,
+        "C3": 0.8276
+      }
+    },
+    "rus": {
+      "best_prompt": "p1",
+      "best_config": "C3",
+      "phase2_validation_f1": {
+        "p0": 0.818,
+        "p1": 0.8414,
+        "p2": 0.8272,
+        "p3": 0.8412
+      },
+      "phase3_validation_f1": {
+        "C1": 0.8677,
+        "C2": 0.8699,
+        "C3": 0.8784
+      }
+    },
+    "hau": {
+      "best_prompt": "p2",
+      "best_config": "C1",
+      "phase2_validation_f1": {
+        "p0": 0.5606,
+        "p1": 0.606,
+        "p2": 0.6063,
+        "p3": 0.6018
+      },
+      "phase3_validation_f1": {
+        "C1": 0.6792,
+        "C2": 0.6676,
+        "C3": 0.6676
+      }
+    },
+    "kin": {
+      "best_prompt": "p1",
+      "best_config": "C3",
+      "phase2_validation_f1": {
+        "p0": 0.4213,
+        "p1": 0.455,
+        "p2": 0.3915,
+        "p3": 0.4303
+      },
+      "phase3_validation_f1": {
+        "C1": 0.3883,
+        "C2": 0.38,
+        "C3": 0.4048
+      }
+    },
+    "sun": {
+      "best_prompt": "p0",
+      "best_config": "C1",
+      "phase2_validation_f1": {
+        "p0": 0.6516,
+        "p1": 0.5846,
+        "p2": 0.5145,
+        "p3": 0.5445
+      },
+      "phase3_validation_f1": {
+        "C1": 0.5035
+      }
+    },
+    "yor": {
+      "best_prompt": "p1",
+      "best_config": "C2",
+      "phase2_validation_f1": {
+        "p0": 0.3479,
+        "p1": 0.3684,
+        "p2": 0.3335,
+        "p3": 0.3582
+      },
+      "phase3_validation_f1": {
+        "C1": 0.2693,
+        "C2": 0.2888,
+        "C3": 0.2835
+      }
+    },
+    "vmw": {
+      "best_prompt": "p3",
+      "best_config": "C2",
+      "phase2_validation_f1": {
+        "p0": 0.0209,
+        "p1": 0.11,
+        "p2": 0.0608,
+        "p3": 0.1581
+      },
+      "phase3_validation_f1": {
+        "C1": 0.187,
+        "C2": 0.2038,
+        "C3": 0.1817
+      }
+    },
+    "pcm": {
+      "best_prompt": "p1",
+      "best_config": "C2",
+      "phase2_validation_f1": {
+        "p0": 0.5199,
+        "p1": 0.5639,
+        "p2": 0.4231,
+        "p3": 0.5443
+      },
+      "phase3_validation_f1": {
+        "C1": 0.535,
+        "C2": 0.5708,
+        "C3": 0.5293
+      }
+    }
+  }
+}

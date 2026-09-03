@@ -1,0 +1,107 @@
+{
+  "eng": {
+    "selected_config": "C3",
+    "source_pool": [
+      "deu",
+      "swe",
+      "afr"
+    ],
+    "fewshot_k_per_emotion": 2,
+    "rendered_fewshot_block": "Here are some example texts in related languages and their emotions:\n\n  Example 1: \"har ingen erfarenhet av bilexperten!!!!!\" -> anger\n  Example 2: \"denkst du, dass sich langfristig was an der desolaten gesamtlage im bahnverkehr etwas ändern wird?\" -> anger\n  Example 3: \"4 bild macht null sinn bei dir würde löschen\" -> disgust\n  Example 4: \"åtta minuter på plats. dryg attityd. faktura på 1865 spänn.\" -> disgust\n  Example 5: \"wenn dann würde ich gleich ein nipt machen, dann und nur dann hast du ein aussagekräftiges ergebnis. und wie es weiter g...\" -> fear\n  Example 6: \"zu den schwerwiegenderen nebenwirkungen von venlafaxin zählen u.a. abnorme blutungen und blutergüsse. dies solltest du e...\" -> fear\n  Example 7: \"utmärkt bemötande och jag blev mycket bättre i min rygg , fick träningsövningar som var bra.\" -> joy\n  Example 8: \"ich wollte allen hier ganz lieb danken für die vielen antworten! ich bin noch kein jahr auf reddit, aber ich habe echt d...\" -> joy\n  Example 9: \"wünsche deiner oma alles gute. :/ mehr kann ich leider auch nicht machen. ich hoffe sie schafft es.\" -> sadness\n  Example 10: \"vir die nasionale pers sou sy vertrek egter 'n onherstelbare verlies gewees het\", lui die berig.\" -> sadness\n  Example 11: \"wenn rauchen nicht gut warum sieht dann so cool aus\" -> surprise\n  Example 12: \"wir haben uns über heißluftfritteusen unterhalten und ich habe gesagt, dass sie im prinzip wie ein kleiner ofen funktion...\" -> surprise\n\n"
+  },
+  "hin": {
+    "selected_config": "C1",
+    "source_pool": [
+      "eng",
+      "rus",
+      "hau",
+      "kin",
+      "sun",
+      "yor",
+      "vmw",
+      "pcm"
+    ],
+    "fewshot_k_per_emotion": 2,
+    "rendered_fewshot_block": "Here are some example texts in related languages and their emotions:\n\n  Example 1: \"суди блять по опыту!\" -> anger\n  Example 2: \"dama ai kai burinka kenan baba, ta gambu yace \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\" babu abinci, babu mai ko sisi, kaga kowa yayi yankwat!!!\"...\" -> anger\n  Example 3: \"da yazo wankin gyambon nan, yana cire kyallen da aka rufe wurin wasu tsutsotsi suka fara zuba saboda rashin kulawa\" -> disgust\n  Example 4: \"mumu broda na so dem dey carry hiv sha go ask sango for aunty nurse number\" -> disgust\n  Example 5: \"tashin hankali yayin da wasu ’yan bindiga suka yi kokarin farmakar sanatan neja a gidansa\" -> fear\n  Example 6: \"i was sweating and panicked.\" -> fear\n  Example 7: \"cik absen aya slankers jeung asep army timana wae ieu ???\" -> joy\n  Example 8: \"mosampiikhi ovonyerya nlaka na ekampaanya onaakiherya otheliwa okathi ohinatti\" -> joy\n  Example 9: \"mọto sọ ijanu rẹ nu, lo ba ṣeku pa tẹgbọn-taburo ni kwara\" -> sadness\n  Example 10: \"sha this small money wey i dey talk took me almost months oo i still dey try recover from the expense sef\" -> sadness\n  Example 11: \"the afterimage lit up green and orange against my eyelids.\" -> surprise\n  Example 12: \"is like people bought new cars in this gwarimpa the kin traffic way dem dey get these days e e e\" -> surprise\n\n"
+  },
+  "rus": {
+    "selected_config": "C3",
+    "source_pool": [
+      "ukr"
+    ],
+    "fewshot_k_per_emotion": 2,
+    "rendered_fewshot_block": "Here are some example texts in related languages and their emotions:\n\n  Example 1: \"реально підглядує....ну капець...а я тут вже 2 місяці живу і не помічала..\" -> anger\n  Example 2: \"день народження старших сестер, тиждень загружений, мене вже саму то бісить :с\" -> anger\n  Example 3: \"проклацала hurricane 30 stm і згадала, що дивились його з лесею в чернівцях перед сніданком у тіффані. пісня отвратітіль...\" -> disgust\n  Example 4: \"бо тупить і неприємно пахне\" -> disgust\n  Example 5: \"а в мене найчастіше лякається майспейса..\" -> fear\n  Example 6: \"а настрашніше те, що я маю кімнату на горищі, і я тут сама сама, вся сім'я поверхом нижче -_-\" -> fear\n  Example 7: \"а ти мене бачиш? а я закохана:)\" -> joy\n  Example 8: \"далі був дикий ржач з моєї і свєтиної сторони #з_розмов\" -> joy\n  Example 9: \"та я завал хотіла, але нема білетів взагалі(\" -> sadness\n  Example 10: \"як потусіть закордоном без неврозів: ніколи.\" -> sadness\n  Example 11: \"ну і нахіба я прийшла на роботу за дві години до відкриття?\" -> surprise\n  Example 12: \"о! сьогодні день народження? то вітаю!!\" -> surprise\n\n"
+  },
+  "hau": {
+    "selected_config": "C1",
+    "source_pool": [
+      "eng",
+      "hin",
+      "rus",
+      "kin",
+      "sun",
+      "yor",
+      "vmw",
+      "pcm"
+    ],
+    "fewshot_k_per_emotion": 2,
+    "rendered_fewshot_block": "Here are some example texts in related languages and their emotions:\n\n  Example 1: \"какого хера мне уже третий день с утра пораньше звонит игорь? блять. ну не лезь ты уже в мою жизнь, у меня уже все отлич...\" -> anger\n  Example 2: \"nibutsa abacuruzi kureka agaco kokudugenda warangiza ngo bazahandi mwamenye ibyanyu koko ##url##\" -> anger\n  Example 3: \"you no go wan hear sef the kyn gist wey dey there\" -> disgust\n  Example 4: \"planning a wedding na stress weve been on style since morning we finally decided next thing the bride wee say is make un...\" -> disgust\n  Example 5: \"i need to ice my calf often and try to stay off it... except to occasionally stretch it.\" -> fear\n  Example 6: \"असाइनमेंट जमा न कर पाने पर मुझे स्कूल के १० चक्कर लगने पड़ेंगे।\" -> fear\n  Example 7: \"genda #rwanda uratengamaye, ukunda abo wibarutse ukanabashyikiriza inkingo za #covid19 hanifashijwe helicopter 👌💪 ##url#...\" -> joy\n  Example 8: \"hit it off really well.\" -> joy\n  Example 9: \"समंदर के सामने वाले कमरे की उम्मीद थी, जिससे की मैं समंदर की ठंडी हवा के साथ और लहरों को देख सकूँ, पर यहाँ तो सिर्फ दीवा...\" -> sadness\n  Example 10: \"eyi ni bi ọkọ iya wa ṣe da bẹntiroolu si wa lara, to ṣana si i, to si pa mẹrin ninu wa\" -> sadness\n  Example 11: \"i did not live in a building with an apartment 3h.\" -> surprise\n  Example 12: \"इलेक्शन कमिशन ने आज अचानक जम्मू-कश्मीर में चुनाव की तारीखों का ऐलान कर हमें चौंका दिया।\" -> surprise\n\n"
+  },
+  "kin": {
+    "selected_config": "C3",
+    "source_pool": [
+      "vmw",
+      "swa"
+    ],
+    "fewshot_k_per_emotion": 2,
+    "rendered_fewshot_block": "Here are some example texts in related languages and their emotions:\n\n  Example 1: \"okapu- telekaatu: muttetthewookeliya naanakhotto ni khekhanlemo orepeliwa.\" -> anger\n  Example 2: \"huyu ni kama hutaka ni chujwe hapa ndio achukue position yangu na hata hajui me hufanya nini smh\" -> anger\n  Example 3: \"maxoronaliixita aromanasiwa ni atoropa a renamo.\" -> disgust\n  Example 4: \"huwa mnafanya nini ndio isimame🤔?\" -> disgust\n  Example 5: \"hiyo sacco huwa mnasifu sana but soon mtaona complaints mingi from customers na investors.\" -> fear\n  Example 6: \"alemanha: \"alemaanya\" onnoopopiha onyohola wala wunteererya miteko sikina sa elapo ya rússia: \"oruusiya\" mwaha wa ohelel...\" -> fear\n  Example 7: \"shit just remembered wale watoto walikuwa wanasomea the likes of makini schools, brookhouse, etc still tweet amongst us😂...\" -> joy\n  Example 8: \"namupakelela orina iyaakha 23 oopakelela esinali ya raatiyu ni televisawu orumeela ikaruma soovonyiwa mukokhola.\" -> joy\n  Example 9: \"yaani kuna mtu alikaa akaangalia fork akaamua itaitwa uma?\" -> sadness\n  Example 10: \"onu: siiriya wokhala muxankiho mulupale wa alipo ottyaawela a olumwenku\" -> sadness\n  Example 11: \"anamatholathola ahoonenela ehimye yookhalana miyaakha ikonto 1,5 yaari ya muluku kereku okisirwa ya opulukaariya\" -> surprise\n  Example 12: \"repupilikaanu ti othanliwe eua nookhwa\" -> surprise\n\n"
+  },
+  "sun": {
+    "selected_config": "C1",
+    "source_pool": [
+      "eng",
+      "hin",
+      "rus",
+      "hau",
+      "kin",
+      "yor",
+      "vmw",
+      "pcm"
+    ],
+    "fewshot_k_per_emotion": 2,
+    "rendered_fewshot_block": "Here are some example texts in related languages and their emotions:\n\n  Example 1: \"yanzu-yanzu: fusatattun matasa sun kone ofishin yan sanda a katsina (hotuna)\" -> anger\n  Example 2: \"मेरे सपनों का हर कोई मज़ाक उड़ाता था, वो सब याद करके मुझे आज भी कुछ लोगों पर गुस्सा आ जाता है\" -> anger\n  Example 3: \"cordinator stop all these nysc sense wey we dey always use for sojo na be punctual and buy ticket ni joo\" -> disgust\n  Example 4: \"you no be balldem want pass u aroundthank god say socratis dey field\" -> disgust\n  Example 5: \"вот теперь я боюсь за тебя\" -> fear\n  Example 6: \"muhire olivier, we yavuze ko baba bafite impungenge ko hagize inzu icururizwamo lisansi ifatwa n’inkongi inzu nyinshi za...\" -> fear\n  Example 7: \"nageria da dadi mallam 😂 😂\" -> joy\n  Example 8: \"ребят, спасибо большое за поддержку!!! :*\" -> joy\n  Example 9: \"petrol tanker accident: èèyàn méjì àti ọkọ̀ 29 ló jóná níbi ìṣẹ̀lẹ̀ táńkà agbépo tó gbiná ní mọ́rosẹ̀ eko sí ibadan\" -> sadness\n  Example 10: \"yakomeje iti \"bakurikiranyweho icyaha cyo gusaba no kwakira indoke, aho bafatiwe mu cyuho bamaze kwakira 400,000 frw kug...\" -> sadness\n  Example 11: \"ni inkuru yatunguranye cyane ko iyi kipe y’umujyi ari yo yari ifite igikombe giheruka cya 2022 ndetse ari n’irushanwa is...\" -> surprise\n  Example 12: \"but baby why did u now pick this my pretty picture naabi e don dey do u gishgish you no see any ugly oneoh sorryi dont h...\" -> surprise\n\n"
+  },
+  "yor": {
+    "selected_config": "C2",
+    "source_pool": [
+      "kin",
+      "vmw",
+      "swa",
+      "ibo"
+    ],
+    "fewshot_k_per_emotion": 2,
+    "rendered_fewshot_block": "Here are some example texts in related languages and their emotions:\n\n  Example 1: \"@<username> @<username> i swear. nwete fa na akukum ozo ehn. ebepum mmadu isi ebea 🤣\" -> anger\n  Example 2: \"mwenye aliuza giroud kwenda chelsea anafaa viboko mingi sana\" -> anger\n  Example 3: \"parasiili mulipo ohaawa mwaha wa othanyiwa mulattu wa nikhuli nawe oxikoola, mwaruusi onikhanyereriwa wavekela muswamiho...\" -> disgust\n  Example 4: \"titans, ndi iberibe!\" -> disgust\n  Example 5: \"@<username> @<username> nsogbu dị oo\" -> fear\n  Example 6: \"sasa ni kila msee na pen knife take, ama nail cutter ju itabidi tu\" -> fear\n  Example 7: \"mwanaume mzima hauna mtoi na unaamka ukismile, unasmile nni sasa😂😂\" -> joy\n  Example 8: \"111) skin gi bu go di enyo. chai! iji mma masa aru mana shakara di too much makachi. oke ako na uche bu nsogbu gi. butuo...\" -> joy\n  Example 9: \"hano abaturanyi, ndumva bashwana umugore avuga ngo \"\"kigali we share\"\". ndi mucyera gati sinzi icyo bapfuye. 😐😂\" -> sadness\n  Example 10: \"@<username> @<username> @<username> we suppose oooo. o kwa ego na kpari mmadụ\" -> sadness\n  Example 11: \"waria ni kidevu moja anatema kikohozi bahali yake\" -> surprise\n  Example 12: \"justin bieber oothukweliya mwaha woowettiha mukukutta ohapaliyene\" -> surprise\n\n"
+  },
+  "vmw": {
+    "selected_config": "C2",
+    "source_pool": [
+      "kin",
+      "yor",
+      "swa",
+      "ibo"
+    ],
+    "fewshot_k_per_emotion": 2,
+    "rendered_fewshot_block": "Here are some example texts in related languages and their emotions:\n\n  Example 1: \"@<username> @<username> @<username> @<username> @<username> nonese sam abyica gute atabibamo,yabonye amahirwe yo kubikor...\" -> anger\n  Example 2: \"na @<username>  i've not seen your statement regarding unai.. ni nini hua mbaya na wewe???\" -> anger\n  Example 3: \"@<username> @<username> @<username> @<username> @<username> @<username> @<username> @<username> @<username> @<username> ...\" -> disgust\n  Example 4: \"homosexual: uganda yóò dá ẹ̀wọǹ gbére fún obinrin tabi okunrin tó bá fẹ́ ara wọn\" -> disgust\n  Example 5: \"nigerian labour congress: ewú ńbẹ! tí ìjọba ìpínlẹ̀ bá sàkóso gbèndéke owó oṣù òṣìṣẹ́,wọ́n ò ní san n30,000, n10,000 ní ...\" -> fear\n  Example 6: \"chineke ekwe kwala ihe ojo\" -> fear\n  Example 7: \"mcigotuk6080 nwanne inaememu ihe ochi nke ukwu..... chukwu dugbe gi..... #peace rudeboypsquare mrp @<username> @<usernam...\" -> joy\n  Example 8: \"saa zingine tailors get blamed for nothing  na ni milii yenu imekataa kucoorperate 😂😂😂\" -> joy\n  Example 9: \"@<username> nna, mama mu hapuru.anyi ga eli ya na 15th. december 2018 biko choturu mu ihe. jisike,ka chineke gba gi ume....\" -> sadness\n  Example 10: \"polisi yakomeje iti \"ku bw’amahirwe, abantu batandatu batabawe n’ubundi bwato butwara abantu, ariko batanu bo baburiwe i...\" -> sadness\n  Example 11: \"@<username> @<username> haha vitu hawkers wana uza tao hivyo ndio wana zi make\" -> surprise\n  Example 12: \"uyu munya-cameroun yamaze kwemeranywa n’amashitani atukura mu gihe amakipe ari yo asigaje kumvikana.\" -> surprise\n\n"
+  },
+  "pcm": {
+    "selected_config": "C2",
+    "source_pool": [
+      "eng",
+      "deu",
+      "swe",
+      "afr"
+    ],
+    "fewshot_k_per_emotion": 2,
+    "rendered_fewshot_block": "Here are some example texts in related languages and their emotions:\n\n  Example 1: \"det civila livet kan vara svårt att anpassa sig till, så visa respekt.\" -> anger\n  Example 2: \"und warum regnet es schon wieder? hab ich nicht bestellt! 😠😠 also wird aus dem sonntag ein betttag! 3x t sieht irgendwie...\" -> anger\n  Example 3: \"damit ist die kirche offiziell für die afd linksgrünversifft\" -> disgust\n  Example 4: \"du bist krank !!!!!!!!\" -> disgust\n  Example 5: \"my throat hurts, i have a headache and my ears are crackling.\" -> fear\n  Example 6: \"warst du damit schon mal beim psychiater (oder wenigstens neurologen)? wenn nein, hin da, alleine um körperliche ursache...\" -> fear\n  Example 7: \"ek hoop dat hierdie jaarvergadering ook vir u suksesvol sal afloop.\" -> joy\n  Example 8: \"letztens waren wir in der stadt, alles was wir erledigen wollten lief schief. wir sind wieder in die parkgarage zu unsre...\" -> joy\n  Example 9: \"i'm so sorry.\" -> sadness\n  Example 10: \"es ist halt schwierig mit einer depressiven person zusammen zu leben. das braucht viel geduld, eigene ruhe und ausgeglic...\" -> sadness\n  Example 11: \"a bit of a mental image, here.\" -> surprise\n  Example 12: \"the exact same guy.\" -> surprise\n\n"
+  }
+}

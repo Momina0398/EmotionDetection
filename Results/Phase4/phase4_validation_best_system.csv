@@ -1,0 +1,10 @@
+Language,Language code,Validation-selected prompt for XLM-R route,Validation-selected XLM-R configuration,Validation-selected SERENGETI configuration,Best XLM-R validation macro-F1,Gemma CAST test macro-F1 using XLM-R-selected configuration,Gemma CAST test macro-F1 using SERENGETI-selected configuration,Highest-scoring Phase 4 condition,Highest Phase 4 test macro-F1,Published Track A test best macro-F1 (context only),Published Track C test best macro-F1 (context only),Benchmark comparison status
+English,ENG,p0,C3,,0.7634,0.629,,G4-CAST(XLM-R),0.629,0.823,0.797,"Descriptive context only: Phase 4 is an internal CAST ablation, not an official Track A/C submission"
+Hindi,HIN,p3,C1,,0.8433,0.8496,,G4-CAST(XLM-R),0.8496,0.926,0.919,"Descriptive context only: Phase 4 is an internal CAST ablation, not an official Track A/C submission"
+Russian,RUS,p1,C3,,,0.8559,,G4-CAST(XLM-R),0.8559,0.901,0.906,"Descriptive context only: Phase 4 is an internal CAST ablation, not an official Track A/C submission"
+Hausa,HAU,p2,C1,C1,,0.5741,0.5741,G4-prompt-only,0.579,0.751,0.709,"Descriptive context only: Phase 4 is an internal CAST ablation, not an official Track A/C submission"
+Kinyarwanda,KIN,p1,C3,C1,,0.4347,0.4374,G4-prompt-only,0.4417,0.657,0.519,"Descriptive context only: Phase 4 is an internal CAST ablation, not an official Track A/C submission"
+Sundanese,SUN,p0,C1,,,0.5212,,G4-prompt-only,0.5596,0.55,0.467,"Descriptive context only: Phase 4 is an internal CAST ablation, not an official Track A/C submission"
+Yoruba,YOR,p1,C2,C1,0.2888,0.3105,0.3093,G4-prompt-only,0.3202,0.461,0.359,"Descriptive context only: Phase 4 is an internal CAST ablation, not an official Track A/C submission"
+Emakhuwa,VMW,p3,C2,C2,,0.098,0.098,G4-CAST(XLM-R),0.098,0.325,0.21,"Descriptive context only: Phase 4 is an internal CAST ablation, not an official Track A/C submission"
+Nigerian Pidgin,PCM,p1,C2,C1,,0.565,0.5512,G4-CAST(XLM-R),0.565,0.674,0.674,"Descriptive context only: Phase 4 is an internal CAST ablation, not an official Track A/C submission"

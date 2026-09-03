@@ -1,0 +1,6 @@
+Language code,Validation-selected prompt,Validation-selected transfer configuration,Selected prompt validation macro-F1,Selected configuration validation macro-F1,Published Track A test best macro-F1 (context only),Published Track C test best macro-F1 (context only),Benchmark comparison status
+HAU,p2,C1,0.6063,0.6974,0.751,0.709,"Descriptive context only: Phase 4 is an internal CAST ablation, not an official Track A/C submission"
+KIN,p1,C1,0.455,0.5946,0.657,0.519,"Descriptive context only: Phase 4 is an internal CAST ablation, not an official Track A/C submission"
+YOR,p1,C1,0.3684,0.3504,0.461,0.359,"Descriptive context only: Phase 4 is an internal CAST ablation, not an official Track A/C submission"
+VMW,p3,C2,0.1581,0.2283,0.325,0.21,"Descriptive context only: Phase 4 is an internal CAST ablation, not an official Track A/C submission"
+PCM,p1,C1,0.5639,0.544,0.674,0.674,"Descriptive context only: Phase 4 is an internal CAST ablation, not an official Track A/C submission"

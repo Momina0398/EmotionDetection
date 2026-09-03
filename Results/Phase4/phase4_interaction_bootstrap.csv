@@ -1,0 +1,10 @@
+Language,Language code,Interaction effect: both - prompt-only - config-only + neither,95% confidence interval lower bound,95% confidence interval upper bound,Raw p-value,Holm-adjusted p-value,Significant after Holm correction (alpha=0.05),Interaction interpretation,Evaluation split,Statistical test,Analysis scope
+English,ENG,0.0,0.0,0.0,1.0,1.0,False,exactly additive,Test,Paired bootstrap; Holm correction applied,Internal Phase 4 CAST ablation
+Hindi,HIN,-0.0239,-0.0318,-0.0162,0.0,0.0,True,sub-additive,Test,Paired bootstrap; Holm correction applied,Internal Phase 4 CAST ablation
+Russian,RUS,-0.0244,-0.0334,-0.0153,0.0,0.0,True,sub-additive,Test,Paired bootstrap; Holm correction applied,Internal Phase 4 CAST ablation
+Hausa,HAU,0.0125,-0.005,0.0302,0.156,0.624,False,synergistic,Test,Paired bootstrap; Holm correction applied,Internal Phase 4 CAST ablation
+Kinyarwanda,KIN,-0.005,-0.0226,0.0132,0.5878,1.0,False,sub-additive,Test,Paired bootstrap; Holm correction applied,Internal Phase 4 CAST ablation
+Sundanese,SUN,0.0,0.0,0.0,1.0,1.0,False,exactly additive,Test,Paired bootstrap; Holm correction applied,Internal Phase 4 CAST ablation
+Yoruba,YOR,0.0182,-0.0007,0.0375,0.06,0.36,False,synergistic,Test,Paired bootstrap; Holm correction applied,Internal Phase 4 CAST ablation
+Emakhuwa,VMW,0.0339,-0.0019,0.0693,0.064,0.36,False,synergistic,Test,Paired bootstrap; Holm correction applied,Internal Phase 4 CAST ablation
+Nigerian Pidgin,PCM,-0.0145,-0.0239,-0.005,0.0018,0.0126,True,sub-additive,Test,Paired bootstrap; Holm correction applied,Internal Phase 4 CAST ablation

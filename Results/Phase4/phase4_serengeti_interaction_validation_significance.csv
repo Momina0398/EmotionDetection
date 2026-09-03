@@ -1,0 +1,6 @@
+Language code,Language,Validation-selected prompt,Interaction effect: both - prompt-only - config-only + neither,95% confidence interval lower bound,95% confidence interval upper bound,Raw p-value,Interaction direction,Holm-adjusted p-value,Significant after Holm correction (alpha=0.05),Evaluation split,Statistical test,Analysis scope
+HAU,Hausa,p2,0.0125,-0.0052,0.0295,0.1718,synergistic,0.5154000000000001,False,Test,Paired bootstrap; Holm correction applied,Internal Phase 4 CAST ablation
+KIN,Kinyarwanda,p1,0.0088,-0.0114,0.03,0.3886,synergistic,0.7772,False,Test,Paired bootstrap; Holm correction applied,Internal Phase 4 CAST ablation
+YOR,Yoruba,p1,0.0009,-0.0174,0.0194,0.9404,synergistic,0.9404,False,Test,Paired bootstrap; Holm correction applied,Internal Phase 4 CAST ablation
+VMW,Emakhuwa,p3,0.0339,-0.0015,0.0689,0.0586,synergistic,0.2344,False,Test,Paired bootstrap; Holm correction applied,Internal Phase 4 CAST ablation
+PCM,Nigerian Pidgin,p1,-0.0103,-0.0198,-0.0006,0.0388,sub-additive,0.194,False,Test,Paired bootstrap; Holm correction applied,Internal Phase 4 CAST ablation

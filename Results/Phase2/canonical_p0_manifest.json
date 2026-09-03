@@ -1,0 +1,28 @@
+{
+  "source_file": "/content/drive/MyDrive/EmotionDetection/CAST_checkpoints/Phase2/phase2_validation_raw_results_gemma4.json",
+  "condition": "p0",
+  "reused_as": [
+    "Phase 1 B3 Gemma baseline",
+    "Phase 2 control condition",
+    "Phase 4 neither condition"
+  ],
+  "language_order": [
+    "eng",
+    "hin",
+    "rus",
+    "hau",
+    "kin",
+    "sun",
+    "yor",
+    "vmw",
+    "pcm"
+  ],
+  "emotion_order": [
+    "anger",
+    "disgust",
+    "fear",
+    "joy",
+    "sadness",
+    "surprise"
+  ]
+}

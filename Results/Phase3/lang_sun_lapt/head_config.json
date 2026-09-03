@@ -1,0 +1,19 @@
+{
+  "config": {
+    "activation_function": "gelu",
+    "bias": true,
+    "embedding_size": 1024,
+    "head_type": "masked_lm",
+    "label2id": null,
+    "layer_norm": true,
+    "layers": 2,
+    "shift_labels": false,
+    "vocab_size": 250002
+  },
+  "hidden_size": 1024,
+  "model_class": "XLMRobertaAdapterModel",
+  "model_name": "xlm-roberta-large",
+  "model_type": "xlm-roberta",
+  "name": "lang_sun_lapt",
+  "version": "adapters.1.3.0"
+}
